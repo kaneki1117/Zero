@@ -2,127 +2,103 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5bbc3f2-7fe4-471c-b25e-2c9ef97591b5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques60.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques61.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques65.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques66.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques67.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques68.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques69.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques71.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/q_easy/Ques104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/q_easy/Ques121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/q_easy/Ques122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/q_easy/Ques141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/q_easy/Ques21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/q_medium/Ques102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/q_medium/Ques120.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/q_medium/Ques142.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/q_medium/Ques148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/summary/Ques1_20_summary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/contest/Ques1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/contest/Ques2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques60.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques66.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques67.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques68.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques80.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques82.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques85.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/q_easy/Ques9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mq/activemq/QueueConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mq/activemq/QueueProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mq/example/BrokerServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mq/example/ConsumeClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mq/example/MqClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mq/example/MyBroker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mq/example/ProducerClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q_util/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q_util/NestedInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q_util/PrintUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/q_util/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rsa/RSADemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques125.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques126.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques127.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques129.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques132.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques133.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques135.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques137.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques138.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques140.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques145.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques146.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques147.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques148.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques149.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques72.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques73.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques85.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques87.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques89.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques119.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques120.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques93.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques95.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques97.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lintcode/contest_200719/Ques1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mq/kafka/KafkaConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mq/kafka/KafkaProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mq/kafka/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mq/rabbit/RabbitConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mq/rabbit/RabbitProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mq/rabbit/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mq/rocket/RocketConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mq/rocket/RocketProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mq/rocket/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q_util/GraphNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q_util/ListNodeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q_util/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/q_util/RandomNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hy/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hy/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques71.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mq/activemq/QueueProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mq/activemq/QueueProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/q_util/PrintUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/q_util/PrintUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/patterns/proxy/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/proxy/note.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/hy/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hy/AppTest.class" afterDir="false" />
     </list>
@@ -141,12 +117,17 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Ques71.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques71.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Ques149.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques149.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1042#1043#0" expanded="true" />
+                <element signature="e#1093#1094#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -169,9 +150,14 @@
       <find>toString</find>
       <find>DEFAULT_BROKER_BIND_URL</find>
       <find>DEFAULT_BROKER_URL</find>
+      <find>swap</find>
+      <find>val</find>
+      <find>RandomNode</find>
     </findStrings>
     <replaceStrings>
       <replace />
+      <replace>UndirectedGraphNode</replace>
+      <replace>Node</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -180,57 +166,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num1_30/Ques30.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques31.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques35.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques32.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques33.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques34.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques36.java" />
-        <option value="$PROJECT_DIR$/src/test/java/hy/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques37.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques38.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques39.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques40.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques41.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques42.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques43.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques44.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques45.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques46.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques47.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques48.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques49.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques50.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques51.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques52.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques53.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques54.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques55.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mq/example/MyBroker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mq/example/MqClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mq/example/BrokerServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mq/example/ProducerClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mq/example/ConsumeClient.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/mq/activemq/QueueConsumer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mq/activemq/QueueProducer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques58.java" />
-        <option value="$PROJECT_DIR$/src/main/java/q_util/PrintUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques56.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques57.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques59.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques60.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques61.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques63.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques64.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques65.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques66.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques67.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques68.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques70.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques69.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques71.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques102.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques103.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques104.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques105.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques106.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques107.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques108.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques109.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques110.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques111.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques112.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques113.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques114.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques115.java" />
+        <option value="$PROJECT_DIR$/src/main/java/q_util/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques116.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques117.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques118.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques119.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques120.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques121.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques122.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques123.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques124.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques125.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques127.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques126.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques128.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques129.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques130.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques131.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques132.java" />
+        <option value="$PROJECT_DIR$/src/main/java/q_util/GraphNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques133.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques134.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques135.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques136.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques137.java" />
+        <option value="$PROJECT_DIR$/src/main/java/q_util/RandomNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques141.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques138.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques139.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques140.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques142.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques143.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques144.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques145.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques146.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques147.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques148.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques149.java" />
       </list>
     </option>
   </component>
@@ -264,7 +250,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -305,7 +291,24 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="nums61_90" type="462c0819:PsiDirectoryNode" />
+              <item name="nums121_150" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zero" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zero" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="q_easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zero" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zero" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="q_util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zero" type="b2602c69:ProjectViewProjectNode" />
@@ -320,12 +323,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Integer&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Integer.java&#10;InputStrea&#9;PSI&#9;JAVA://java.io.InputStream&#10;JobSc&#9;PSI&#9;JAVA://com.dangdang.ddframe.job.lite.api.JobScheduler&#10;FileInput&#9;PSI&#9;JAVA://java.io.FileInputStream&#10;FilterIn&#9;PSI&#9;JAVA://java.io.FilterInputStream&#10;InputStream&#9;PSI&#9;JAVA://java.io.InputStream" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/heyu/Desktop/zero/Zero/src/main/java/leetcode/nums91_120/Ques108.java&#10;Pair&#9;PSI&#9;JAVA://leetcode.num31_60.Ques56.Pair&#10;ListNode&#9;FILE&#9;file:///Users/heyu/Desktop/zero/Zero/src/main/java/q_util/ListNodeUtil.java&#10;Integer&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Integer.java&#10;InputStrea&#9;PSI&#9;JAVA://java.io.InputStream&#10;JobSc&#9;PSI&#9;JAVA://com.dangdang.ddframe.job.lite.api.JobScheduler&#10;FileInput&#9;PSI&#9;JAVA://java.io.FileInputStream&#10;FilterIn&#9;PSI&#9;JAVA://java.io.FilterInputStream&#10;InputStream&#9;PSI&#9;JAVA://java.io.InputStream" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -364,53 +367,75 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ques66">
-    <configuration name="Ques62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.nums61_90.Ques62" />
+  <component name="RunManager" selected="Application.Ques143">
+    <configuration name="KafkaConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mq.kafka.KafkaConsumer" />
       <module name="Zero" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.nums61_90.*" />
+          <option name="PATTERN" value="mq.kafka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Ques63" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.nums61_90.Ques63" />
+    <configuration name="Ques137" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.nums121_150.Ques137" />
       <module name="Zero" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.nums61_90.*" />
+          <option name="PATTERN" value="leetcode.nums121_150.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Ques64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.nums61_90.Ques64" />
+    <configuration name="Ques138" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.nums121_150.Ques138" />
       <module name="Zero" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.nums61_90.*" />
+          <option name="PATTERN" value="leetcode.nums121_150.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Ques65" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.nums61_90.Ques65" />
+    <configuration name="Ques139" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.nums121_150.Ques139" />
       <module name="Zero" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.nums61_90.*" />
+          <option name="PATTERN" value="leetcode.nums121_150.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Ques66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.nums61_90.Ques66" />
+    <configuration name="Ques140" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.nums121_150.Ques140" />
+      <module name="Zero" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.nums121_150.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Ques143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.nums121_150.Ques143" />
+      <module name="Zero" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.nums121_150.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Ques80" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.nums61_90.Ques80" />
       <module name="Zero" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -462,19 +487,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Ques62" />
-      <item itemvalue="Application.Ques63" />
-      <item itemvalue="Application.Ques64" />
-      <item itemvalue="Application.Ques65" />
-      <item itemvalue="Application.Ques66" />
+      <item itemvalue="Application.Ques137" />
+      <item itemvalue="Application.Ques138" />
+      <item itemvalue="Application.Ques139" />
+      <item itemvalue="Application.Ques140" />
+      <item itemvalue="Application.Ques143" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ques66" />
-        <item itemvalue="Application.Ques65" />
-        <item itemvalue="Application.Ques64" />
-        <item itemvalue="Application.Ques63" />
-        <item itemvalue="Application.Ques62" />
+        <item itemvalue="Application.Ques143" />
+        <item itemvalue="Application.Ques140" />
+        <item itemvalue="Application.Ques139" />
+        <item itemvalue="Application.Ques138" />
+        <item itemvalue="Application.Ques137" />
       </list>
     </recent_temporary>
   </component>
@@ -510,7 +535,20 @@
       <workItem from="1593243844416" duration="7734000" />
       <workItem from="1593971348805" duration="6562000" />
       <workItem from="1594217456944" duration="10403000" />
-      <workItem from="1595035863329" duration="1843000" />
+      <workItem from="1595035863329" duration="21404000" />
+      <workItem from="1595167326011" duration="2533000" />
+      <workItem from="1595170649859" duration="1414000" />
+      <workItem from="1595172100608" duration="14750000" />
+      <workItem from="1595662101543" duration="14297000" />
+      <workItem from="1596277402071" duration="15403000" />
+      <workItem from="1597073345859" duration="4049000" />
+      <workItem from="1597455547819" duration="12697000" />
+      <workItem from="1598665602769" duration="19315000" />
+      <workItem from="1599283058545" duration="14880000" />
+      <workItem from="1599900234360" duration="889000" />
+      <workItem from="1599901643188" duration="601000" />
+      <workItem from="1600096997792" duration="20060000" />
+      <workItem from="1601084782626" duration="6235000" />
     </task>
     <servers />
   </component>
@@ -538,7 +576,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="246649000" />
+    <option name="totallyTimeSpent" value="393333000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="23" width="2048" height="1129" extended-state="6" />
@@ -553,12 +591,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30441177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15659069" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2544643" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.25371656" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6394558" visible="true" weight="0.15154536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6394558" visible="true" weight="0.1445663" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="BPMNPalette" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.3605442" side_tool="true" weight="0.20243205" />
@@ -566,16 +604,49 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2529412" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45319465" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3270565" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32392272" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3293124" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32864866" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3297568" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23587711" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.25371656" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32392272" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="BPMNPalette" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6394558" visible="true" weight="0.13010967" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Structure" order="1" sideWeight="0.3605442" side_tool="true" weight="0.20243205" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.3297568" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32864866" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.30227947" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -892,392 +963,672 @@
           <properties />
           <option name="timeStamp" value="98" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques71.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques71.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques72.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques73.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques73.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques74.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques75.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques77.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques76.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques78.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques79.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques80.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques82.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques84.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques88.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques86.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques87.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques87.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques90.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques91.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/q_util/PrintUtil.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques93.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques95.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques97.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques97.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques115.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques118.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques121.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques123.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques126.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques129.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques130.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques131.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques131.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques132.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques133.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques135.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques136.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques138.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques138.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques139.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques140.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques140.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques140.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques143.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="99" />
+      <option name="time" value="181" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques33.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques106.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="608">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques36.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques107.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="44" column="5" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/hy/AppTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques108.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        <state relative-caret-position="209">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques31.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques37.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques38.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques39.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="37" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques42.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques43.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques40.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques41.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques44.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques45.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques46.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques48.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques47.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="17" column="8" selection-start-line="17" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques50.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques52.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="65" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques51.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="66" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="66" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques49.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="16" selection-start-line="15" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques54.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="48" column="6" lean-forward="true" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques53.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques55.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="237" column="42" selection-start-line="237" selection-start-column="34" selection-end-line="237" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mq/example/ConsumeClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mq/example/ProducerClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mq/example/MqClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mq/example/BrokerServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1078">
-          <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mq/example/MyBroker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.10/activemq-all-5.15.10.jar!/org/apache/activemq/ActiveMQConnectionFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="977" column="15" selection-start-line="977" selection-start-column="15" selection-end-line="977" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.10/activemq-all-5.15.10.jar!/org/apache/activemq/ActiveMQConnection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="1697" column="57" lean-forward="true" selection-start-line="1697" selection-start-column="57" selection-end-line="1697" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mq/activemq/QueueConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mq/activemq/QueueProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="27" column="86" selection-start-line="27" selection-start-column="86" selection-end-line="27" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/q_util/PrintUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques56.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="8" selection-start-line="13" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques57.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1879#1880#0" expanded="true" />
-            <element signature="e#1920#1921#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques58.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques59.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="48" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/num31_60/Ques60.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="45" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques61.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques109.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques62.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques110.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="64" column="5" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="64" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques111.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques113.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques112.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques115.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques114.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques118.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques119.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques116.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques120.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques121.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques122.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques123.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques124.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="5794" column="38" selection-start-line="5794" selection-start-column="38" selection-end-line="5794" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques125.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques126.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques128.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques129.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques130.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques127.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques132.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques131.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="41" selection-start-line="41" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums91_120/Ques117.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/q_util/GraphNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/q_util/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques133.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mq/kafka/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mq/kafka/KafkaProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mq/kafka/KafkaConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques136.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques135.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/q_util/RandomNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques134.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques137.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques138.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques139.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques140.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1671#1679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques141.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques63.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques142.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="76">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques64.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques143.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+        <state relative-caret-position="-421">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques65.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques144.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="384">
+          <caret line="25" column="22" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="25" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques66.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques145.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="399">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques67.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques146.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="32" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="32" />
+        <state relative-caret-position="259">
+          <caret line="47" column="41" lean-forward="true" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques68.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques147.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+        <state relative-caret-position="418">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques70.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques148.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="95">
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques69.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums121_150/Ques149.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/nums61_90/Ques71.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1042#1043#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

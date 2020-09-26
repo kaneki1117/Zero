@@ -25,7 +25,7 @@ public class QueueProducer {
 
             MessageProducer messageProducer = session.createProducer(myTestQueue);
 
-            TextMessage message = session.createTextMessage("test point-to-point msg22");
+            TextMessage message = session.createTextMessage("test point-to-point from hy");
 
             messageProducer.send(message);
             session.commit();

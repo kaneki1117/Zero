@@ -29,6 +29,12 @@ public class PrintUtil {
         }
     }
 
+    public static void printStringList(List<String> list){
+        for(String str : list){
+            System.out.print(str + ",");
+        }
+    }
+
     public static void print2DMatrix(int[][] matrix) {
         int m  = matrix.length;
         int n  = matrix[0].length;
